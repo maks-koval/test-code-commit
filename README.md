@@ -1,6 +1,6 @@
 
 ####FFFFc
 # test-code-dmcommit
-* ffffc
+* fff
 s
 x
