@@ -2,5 +2,5 @@
 ####FFFFcxx
 # test-code-dmcommit
 * ff
-s
+sf
 f
