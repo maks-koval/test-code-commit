@@ -1,6 +1,6 @@
 
 ####FFFFc
-# test-code-mcommit
+# test-code-dmcommit
 * ffffc
 s
 x
